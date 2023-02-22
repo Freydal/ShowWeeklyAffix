@@ -1,0 +1,6 @@
+## Interface: 100002
+## Title: Show Weekly Affix
+## Notes: Displays dungeons in level order for current week.
+## Author: Freydal
+
+ShowWeeklyAffix.lua
